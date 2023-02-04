@@ -1,0 +1,21 @@
+ *{
+    margin: 0;
+    padding: 0;
+    font-family: poppins;
+    letter-spacing: 2px;
+}
+
+body{
+    padding: 30px;
+}
+/*
+h1{
+    color: red;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 50px;
+}
+h1::first-letter{
+    font-size: 70px;
+    color: white; */
+}
